@@ -1,0 +1,4 @@
+Link del servidor en Node-Red:
+	http://186.4.224.175:1880/#flow/186e9481.a1218b
+Contraseña: 2008P4P3lucho
+Usuario: admin
