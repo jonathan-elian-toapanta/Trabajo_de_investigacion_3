@@ -1,4 +1,4 @@
-# Informe 
+# Informe hola mundo 
 ## Análisis de 3 bibliotecas GUI para Python 
 
 ## 1.PLANTEAMIENTO DEL PROBLEMA
