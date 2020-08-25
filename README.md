@@ -1,5 +1,5 @@
 # Informe 
-## Análisis de 3 bibliotecas GUI para Python 
+## Pyto xdxdxdx 
 
 ## 1.PLANTEAMIENTO DEL PROBLEMA
 
